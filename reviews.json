@@ -1,0 +1,66 @@
+{
+  "rating": 4.9,
+  "user_ratings_total": 82,
+  "reviews": [
+    {
+      "author_name": "Gábor Horváth",
+      "author_url": "https://www.google.com/maps/contrib/102639365707277506199/reviews",
+      "language": "en-US",
+      "original_language": "hu",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJjlVdbR09Vg6NUzCoLiJXFuDqYT0iGLQij91So7SrSXc2A1c=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "I can only recommend them, I am satisfied with them. I have been going to them since about 2010. I am currently doing my GKI with them.",
+      "time": 1783011956,
+      "translated": true
+    },
+    {
+      "author_name": "Zoltán Bekk",
+      "author_url": "https://www.google.com/maps/contrib/100605110477638989102/reviews",
+      "language": "en-US",
+      "original_language": "hu",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQyDPkZqJVxo4QI-INZVn0oLVENKDoFZCK-pLA9dnvG1GvECY=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I took my GKI exam here in 2026.\n\nThe service is impeccable. Great people. Helpful. Fair prices.\n\nI can only recommend it!\n\nYou can take your exam in everything.\n\nA. B . C . CE. D. DE. E. CE. BE. M. T. STB",
+      "time": 1778102307,
+      "translated": true
+    },
+    {
+      "author_name": "Zoltán Ajtai",
+      "author_url": "https://www.google.com/maps/contrib/108939203270526547924/reviews",
+      "language": "en-US",
+      "original_language": "hu",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuszI-GEbCWhAHoY3lyGr9EatbZxn7qo6UccPVEYnrSMB6ng=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Correct, well-trained professionals work here. I highly recommend them to everyone. :)",
+      "time": 1781258126,
+      "translated": true
+    },
+    {
+      "author_name": "Zozo B.",
+      "author_url": "https://www.google.com/maps/contrib/109532803833329715672/reviews",
+      "language": "en-US",
+      "original_language": "hu",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUue7bF1SMorn8mAiBTTCiXaahhTgnoUKqg4H4frzyrUtKGyzy2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Very fair company. Organization and education at the highest level. Congratulations, I can only recommend it 👍 5 stars saved",
+      "time": 1770894286,
+      "translated": true
+    },
+    {
+      "author_name": "Alida Kerékgyártó",
+      "author_url": "https://www.google.com/maps/contrib/102438730158811657619/reviews",
+      "language": "en-US",
+      "original_language": "hu",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8WTknhSYWyIiDR7bYVbCMJgy_BcssIHfNb9ENECHffu_EjQCtQQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "I have only positive experiences.\nI would recommend them to anyone!\nThey are very helpful.",
+      "time": 1774472109,
+      "translated": true
+    }
+  ]
+}
