@@ -3,18 +3,6 @@
   "user_ratings_total": 89,
   "reviews": [
     {
-      "author_name": "Gábor Horváth",
-      "author_url": "https://www.google.com/maps/contrib/102639365707277506199/reviews",
-      "language": "en-US",
-      "original_language": "hu",
-      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJjlVdbR09Vg6NUzCoLiJXFuDqYT0iGLQij91So7SrSXc2A1c=s128-c0x00000000-cc-rp-mo",
-      "rating": 5,
-      "relative_time_description": "2 months ago",
-      "text": "I can only recommend them, I am satisfied with them. I have been going to them since about 2010. I am currently doing my GKI with them.",
-      "time": 1783011956,
-      "translated": true
-    },
-    {
       "author_name": "Zoltán Bekk",
       "author_url": "https://www.google.com/maps/contrib/100605110477638989102/reviews",
       "language": "en-US",
@@ -36,6 +24,18 @@
       "relative_time_description": "3 months ago",
       "text": "Correct, well-trained professionals work here. I highly recommend them to everyone. :)",
       "time": 1781258126,
+      "translated": true
+    },
+    {
+      "author_name": "Gábor Horváth",
+      "author_url": "https://www.google.com/maps/contrib/102639365707277506199/reviews",
+      "language": "en-US",
+      "original_language": "hu",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJjlVdbR09Vg6NUzCoLiJXFuDqYT0iGLQij91So7SrSXc2A1c=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I can only recommend them, I am satisfied with them. I have been going to them since about 2010. I am currently doing my GKI with them.",
+      "time": 1783011956,
       "translated": true
     },
     {
