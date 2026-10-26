@@ -39,18 +39,6 @@
       "translated": true
     },
     {
-      "author_name": "Kovács Máté",
-      "author_url": "https://www.google.com/maps/contrib/108683461060385448012/reviews",
-      "language": "en-US",
-      "original_language": "hu",
-      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV837oK12ZTcEbEZoJutuO9gWCFNiXt9ZMwxG62Xk1AGe6AlgM=s128-c0x00000000-cc-rp-mo-ba2",
-      "rating": 5,
-      "relative_time_description": "4 months ago",
-      "text": "Very correct, well-prepared instructors, clean, modern environment, flexible and fast in administration.",
-      "time": 1780658489,
-      "translated": true
-    },
-    {
       "author_name": "Alida Kerékgyártó",
       "author_url": "https://www.google.com/maps/contrib/102438730158811657619/reviews",
       "language": "en-US",
@@ -60,6 +48,18 @@
       "relative_time_description": "7 months ago",
       "text": "I have only positive experiences.\nI would recommend them to anyone!\nThey are very helpful.",
       "time": 1774472109,
+      "translated": true
+    },
+    {
+      "author_name": "László Baricz",
+      "author_url": "https://www.google.com/maps/contrib/112076885137596516641/reviews",
+      "language": "en-US",
+      "original_language": "hu",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLX2CkpMfwsKKo2l5fDX_pt1RltbBYYCBOIeSbQKoP8PFtKOg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I participated in a GKI renovation. They are flexible and helpful.",
+      "time": 1784798599,
       "translated": true
     }
   ]
