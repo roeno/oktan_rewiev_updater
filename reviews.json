@@ -3,18 +3,6 @@
   "user_ratings_total": 94,
   "reviews": [
     {
-      "author_name": "Zoltán Ajtai",
-      "author_url": "https://www.google.com/maps/contrib/108939203270526547924/reviews",
-      "language": "en-US",
-      "original_language": "hu",
-      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuszI-GEbCWhAHoY3lyGr9EatbZxn7qo6UccPVEYnrSMB6ng=s128-c0x00000000-cc-rp-mo",
-      "rating": 5,
-      "relative_time_description": "5 months ago",
-      "text": "Correct, well-trained professionals work here. I highly recommend them to everyone. :)",
-      "time": 1781258126,
-      "translated": true
-    },
-    {
       "author_name": "György Glonda",
       "author_url": "https://www.google.com/maps/contrib/101828590236114431553/reviews",
       "language": "en-US",
@@ -60,6 +48,18 @@
       "relative_time_description": "a month ago",
       "text": "Very correct, well-prepared conscience society.\nI recommend it to everyone.\nPintye Sàndor",
       "time": 1790263856,
+      "translated": true
+    },
+    {
+      "author_name": "Zoltán Ajtai",
+      "author_url": "https://www.google.com/maps/contrib/108939203270526547924/reviews",
+      "language": "en-US",
+      "original_language": "hu",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuszI-GEbCWhAHoY3lyGr9EatbZxn7qo6UccPVEYnrSMB6ng=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Correct, well-trained professionals work here. I highly recommend them to everyone. :)",
+      "time": 1781258126,
       "translated": true
     }
   ]
